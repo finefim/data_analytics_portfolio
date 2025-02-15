@@ -6,20 +6,23 @@ The dashboards provide live **sales and operational margins** data which support
 
 ---
 
-## Visualisations
-- Monthly sales visualisation reflects **month-to-date** data to inform on monthly sales vs plan or KPIs
-- Suppliers dashboard shows **year-to-date** sales in total, in the number of truckloads, and average **operational margin per supplier**. The latter metric is vital in B2B wholesales of commodities and hugely supports sourcing and supplier management. 
-- Top 10 customers **year-to-date** supports sales and marketing activities.
-
-### Monthly sales visualisation
+## Monthly Dales Dashboards
 Reflects **month-to-date** sales data to inform on actual sales vs plan or KPIs and provides customer insights.
 
 ![Monthly Sales Dashboard](images/monthly_sales.jpg)
 
-### Suppliers dashboard
+
+## Suppliers Dashboard
 Shows **year-to-date** sales in total, in the number of truckloads, and average **operational margin per supplier**. The latter metric is vital in B2B wholesales of commodities and hugely supports sourcing and supplier management. 
 
 ![Supplier Dashboard](images/suppliers_2024.jpg)
+
+
+## Top 10 customers
+Shows **year-to-date** sales for top 10 customers by sales and number of orders and provides insights into operational margins supporting further sales and marketing activities.
+
+![Top 10 Customers Dashboard](images/top10_customers_2024.jpg)
+
 
 ---
 
