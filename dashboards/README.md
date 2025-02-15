@@ -77,7 +77,3 @@ This dashboard helps **prioritize sales efforts and optimize marketing campaigns
 ## Final Thoughts  
 This project showcases **how BI tools like Looker, combined with strong ETL pipelines, can transform raw data into valuable business insights**.  
 
----
-
-## [Project Repository](dashboards)
-
