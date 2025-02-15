@@ -79,8 +79,5 @@ This project showcases **how BI tools like Looker, combined with strong ETL pipe
 
 ---
 
-## [Project Repository](your-github-repo-link-here)
+## [Project Repository](dashboards)
 
----
-
-## 📂 Project Structure
