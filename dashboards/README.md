@@ -75,5 +75,7 @@ This dashboard helps **prioritize sales efforts and optimize marketing campaigns
 ---
 
 ## Final Thoughts  
-This project showcases **how BI tools like Looker, combined with strong ETL pipelines, can transform raw data into valuable business insights**.  
-
+Implementing structured data pipelines and BI dashboards marked a significant step toward digitalization for the company.  
+Despite the simplicity of the queries and dashboards, the process of integrating, cleaning, and structuring raw business data presented substantial challenges.  
+This project demonstrates **how Looker, combined with a well-designed ETL pipeline, can transform unstructured data into actionable business insights, supporting strategic decision-making and operational efficiency**.
+ 
