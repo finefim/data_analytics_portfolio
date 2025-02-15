@@ -31,7 +31,12 @@ I am skilled in **SQL, Python, R, Looker, Tableau, BPMN**.
 - **Python** (ETL automation, API integrations).  
 - **BigQuery & SQL** (data transformation & storage).  
 - **Looker** (dashboarding & visualization).  
-- **Business analytics & KPI tracking.**  
+- **Business analytics & KPI tracking.**
+
+**Results & Business Impact**
+- Introduced **real-time tracking of operational margins** with Looker dashboards.
+- Enabled **data-driven decision-making** in sales, procurement, and logistics.
+- Reduced manual reporting time by **automating data pipelines**.
 
 [🔗 Link to Project](#)  
 
