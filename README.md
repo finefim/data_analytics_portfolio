@@ -9,7 +9,7 @@ Since the data comes from **real business operations**, some sensitive details h
 
 I am a **business development professional turned data analyst and business analyst** with **10+ years of experience** in **business operations, sales, procurement, and logistics**. My expertise lies in using **data-driven insights** to optimize business processes, forecast trends, and automate decision-making.
 
-I am skilled in **SQL, Python, R, Looker, Tableau, BPMN, and predictive modelling**.
+I am skilled in **SQL, Python, R, Looker, Tableau, BPMN**.
 
 ---
 
@@ -17,32 +17,40 @@ I am skilled in **SQL, Python, R, Looker, Tableau, BPMN, and predictive modellin
 
 ### 1. Dashboards for Operational Business Management with Looker  
 **Objective:**  
-- Developed **interactive dashboards** for real-time business operations monitoring and decision-making.
+- Developed **interactive dashboards** for real-time monitoring of business operations, improving decision-making efficiency.  
+- Led the **early-stage digitalization** of the company by integrating data from multiple sources into a structured analytics pipeline.  
 
 **Data & Process:**  
-- **Original dataset:** Business sales, procurement, and logistics data (sanitized).  
-- **Data Cleaning & Transformation:** Performed in SQL/Python.
+- **Raw data sources:** Business sales, procurement, logistics data from **spreadsheets, website CMS, and e-commerce applications**.  
+- **Data Cleaning & Organization:** Initially performed in **Excel** to structure raw datasets.  
+- **ETL Pipeline:**  
+  - Automated **data extraction** from multiple sources.  
+  - **Transformed & loaded** data into **BigQuery** using **Python**, consolidating structured datasets for reporting.  
 
 **Tools & Skills:**  
-- **Looker** for visualization and dashboarding.  
-- **SQL & Python** for data transformation.  
+- **Python** (ETL automation, API integrations).  
+- **BigQuery & SQL** (data transformation & storage).  
+- **Looker** (dashboarding & visualization).  
 - **Business analytics & KPI tracking.**  
 
-[🔗 Link to Project](#) (Replace with actual link)  
+[🔗 Link to Project](#)  
 
 ---
 
-### 2. Forecasting Sales Based on Historical Data  
+### 2. Forecasting Sales Based on Historical Data & Weather Trends (R, SARIMAX)  
 **Objective:**  
-- Built a **time-series forecasting model** to predict sales trends.
+- Built a **time-series forecasting model** to predict seasonal sales fluctuations using **historical sales data (8 years)** combined with **monthly temperature data from the Finnish Meteorological Institute (FMI)**.
 
 **Data & Process:**  
-- Collected **historical sales data**.  
-- Applied **statistical forecasting techniques** (ARIMA, Prophet).
+- **Sales data (2016-2024)** combined with **average monthly temperatures** from FMI API.  
+- **Feature engineering:** Analyzed correlations between temperature shifts and sales volumes.  
+- **Modeling:** Applied **SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous variables)** to account for seasonal trends and external temperature impact.  
+- **Evaluation:** Used **cross-validation and MAPE (Mean Absolute Percentage Error)** to assess prediction accuracy.
 
 **Tools & Skills:**  
-- **Python (Pandas, Statsmodels, Prophet)**.  
-- **Data preprocessing & feature engineering.**  
+- **R (Tidyverse, forecast, tseries, ggplot2, FMI API integration)**.  
+- **Time-series forecasting & econometric modeling**.  
+- **Predictive analytics & external factor integration**.  
 
 [🔗 Link to Project](#)  
 
